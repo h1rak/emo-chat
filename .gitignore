@@ -1,0 +1,6 @@
+model/        # ルート直下だけ無視（←好みで model/ にしてもOK）
+*.pt           # すべての .pt を無視/model/
+*.pt
+__pycache__/
+model/
+*.pt
